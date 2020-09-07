@@ -6,17 +6,17 @@ I mostly work with  Javascript and NodeJs technologies.☁️🚀
 
 <p>
 <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-     <img src="assets/html-css-js.png" height="70" />
+     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/html-css-js.png" height="70" />
  </a>
  <a href="https://nodejs.org/en/docs/" target="_blank">
-   <img src="assets/nodejs.ai"/>
+   <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/nodejs.png"/>
  </a>
  </p>
  
  ### Databases
  <p>
   <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="assets/mongo.gif" width="120" />
+    <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/mongo.gif" width="120">
   </a>&nbsp;&nbsp;
 </p>
  
@@ -27,5 +27,5 @@ I mostly work with  Javascript and NodeJs technologies.☁️🚀
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/sandeep-kumar-srivastava-8470ba171/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/sd769113) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:sd769113@gmail.com)💌<br>
-  ⦿ Connect with me on [Instagram](https://www.instagram.com/_sandeepsrivastava_/) <br>
   
+
