@@ -9,7 +9,7 @@ I mostly work with  Javascript and NodeJs technologies.☁️🚀
      <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/html-css-js.png" height="70" />
  </a>
  <a href="https://nodejs.org/en/docs/" target="_blank">
-   <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/nodejs.png"/>
+   <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/nodejs.png" height="80"/>
  </a>
  </p>
  
