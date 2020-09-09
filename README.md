@@ -30,15 +30,15 @@ I mostly work with  Javascript and NodeJs technologies.☁️🚀
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/c++.png" width="120">
    </a>&nbsp;&nbsp;
   
-    <a href="https://www.python.org/doc/" target="_blank" >
+   <a href="https://www.python.org/doc/" target="_blank" >
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/python.gif" width="120">
    </a>&nbsp;&nbsp;
 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank" >
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank" >
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/javascript.jpg" width="120">
    </a>&nbsp;&nbsp;
  
-      <a href="https://docs.oracle.com/en/java/"  target="_blank" >
+   <a href="https://docs.oracle.com/en/java/"  target="_blank" >
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/java.gif" width="120">
    </a>&nbsp;&nbsp;
    
