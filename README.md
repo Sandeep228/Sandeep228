@@ -19,30 +19,29 @@ I mostly work with  Javascript and NodeJs technologies.☁️🚀
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/mongo.gif" width="120">
   </a>&nbsp;&nbsp;
 </p>
+
  ### Programming Languages
   <p>
    <a href="https://en.cppreference.com/w/c/language"  target="_blank" >
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/c.png" width="120">
    </a>&nbsp;&nbsp;
-  </p>
-    <p>
+  
    <a href="http://www.cplusplus.com/doc/tutorial/"  target="_blank" >
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/c++.png" width="120">
    </a>&nbsp;&nbsp;
-  </p>
-    <a href="https://www.python.org/doc/"  target="_blank" >
+  
+    <a href="https://www.python.org/doc/" target="_blank" >
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/python.gif" width="120">
    </a>&nbsp;&nbsp;
-  </p>
-  <p>
+
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank" >
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/javascript.jpg" width="120">
    </a>&nbsp;&nbsp;
-  </p>
-    <p>
+ 
       <a href="https://docs.oracle.com/en/java/"  target="_blank" >
     <img src="https://github.com/Sandeep228/Sandeep228/blob/master/assets/java.gif" width="120">
    </a>&nbsp;&nbsp;
+   
   </p>
  
 ### 📫 How to reach me? 
