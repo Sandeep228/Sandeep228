@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep228&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep228" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep228" alt="sandeep228" /></a> </p>
 
@@ -25,12 +24,6 @@
 - ⚡ Fun fact **I am Tea Lover**
 
 - <p align="left">
-  <a href="https://leetcode.com/sd769113/">
-    <img src="https://cp-logo.vercel.app/leetcode/sd769113" alt="Leet code rating" />
-  </a>
-  <a href="https://github.com/sandeep228?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sandeep228?color=green&logo=github">
-  </a>
   <a href="https://github.com/sandeep228"> <img src="https://komarev.com/ghpvc/?username=sandeep228&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep228" /> </a>
 
 </p>
