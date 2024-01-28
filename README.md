@@ -24,9 +24,16 @@
 
 - ⚡ Fun fact **I am Tea Lover**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- <p align="left">
+  <a href="https://leetcode.com/sd769113/">
+    <img src="https://cp-logo.vercel.app/leetcode/sd769113" alt="Leet code rating" />
+  </a>
+  <a href="https://github.com/sandeep228?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sandeep228?color=green&logo=github">
+  </a>
+  <a href="https://github.com/sandeep228"> <img src="https://komarev.com/ghpvc/?username=sandeep228&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep228" /> </a>
+
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
