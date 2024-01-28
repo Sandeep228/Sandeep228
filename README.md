@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/sd769113" target="blank"><img src="https://img.shields.io/twitter/follow/sd769113?logo=twitter&style=for-the-badge" alt="sd769113" /></a> </p>
 
-- 🔭 &nbsp; Building [gluestack](https://github.com/gluestack) @[Geekyants](https://geekyants.com).
 
-- 🌱 I’m currently learning **MicroFrontend and Nextjs**
+- 🌱 I’m currently learning **MicroFrontend and BlockChain**
 
 - 👨‍💻 All of my projects are available at [https://portfoliosandeep.netlify.app/](https://portfoliosandeep.netlify.app/)
 
-- 💬 Ask me about **React and Blockchain**
+- 💬 Ask me about **React and Nextjs**
 
 - 📫 How to reach me **sd769113@gmail.com**
 
