@@ -23,11 +23,6 @@
 
 - ⚡ Fun fact **I am Tea Lover**
 
-- <p align="left">
-  <a href="https://github.com/sandeep228"> <img src="https://komarev.com/ghpvc/?username=sandeep228&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep228" /> </a>
-
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sd769113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sd769113" height="30" width="40" /></a>
