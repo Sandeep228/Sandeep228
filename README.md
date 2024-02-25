@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep228" alt="sandeep228" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sd769113" target="blank"><img src="https://img.shields.io/twitter/follow/sd769113?logo=twitter&style=for-the-badge" alt="sd769113" /></a> </p>
 
 
 - 🌱 I’m currently learning **MicroFrontend and BlockChain**
