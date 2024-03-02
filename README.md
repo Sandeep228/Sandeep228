@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MicroFrontend and BlockChain**
 
-- 👨‍💻 All of my projects are available at [https://portfoliosandeep.netlify.app/](https://portfoliosandeep.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliosandeep.netlify.app/](https://portfoliosandeep.netlify.app)
 
 - 💬 Ask me about **React and Nextjs**
 
@@ -18,7 +18,7 @@
 -  🚀 All my hackathon achievements are <a href="https://devpost.com/Sandeep09" target="_blank">here</a>
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c143BbvxJ8zGSQaetW83ZzDDLi1Yua3H/view?usp=sharing/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1c143BbvxJ8zGSQaetW83ZzDDLi1Yua3H/view?usp=sharing](https://drive.google.com/file/d/1c143BbvxJ8zGSQaetW83ZzDDLi1Yua3H/view?usp=sharing)
 
 - ⚡ Fun fact **I am Tea Lover**
 
