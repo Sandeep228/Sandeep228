@@ -18,7 +18,7 @@
 -  🚀 All my hackathon achievements are <a href="https://devpost.com/Sandeep09" target="_blank">here</a>
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c143BbvxJ8zGSQaetW83ZzDDLi1Yua3H/view?usp=sharing](https://drive.google.com/file/d/1c143BbvxJ8zGSQaetW83ZzDDLi1Yua3H/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tdl6VaWO3uVJNMYIfPPporxhjZATOW-O/view?usp=sharing)
 
 - ⚡ Fun fact **I am Tea Lover**
 
