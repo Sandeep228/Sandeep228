@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MicroFrontend and BlockChain**
 
-- 👨‍💻 All of my projects are available at [https://portfoliosandeep.netlify.app/](https://portfoliosandeep.netlify.app)
+- 👨‍💻 All of my projects are available at [https://sandeepsrivastava.vercel.app/](https://sandeepsrivastava.vercel.app/)
 
 - 💬 Ask me about **React and Nextjs**
 
