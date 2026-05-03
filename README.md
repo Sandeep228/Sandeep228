@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://sandeepsrivastava.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   <a href="mailto:sd769113@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
