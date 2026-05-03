@@ -8,6 +8,9 @@
   <a href="mailto:sd769113@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
   </a>
+   <a href="YOUR_DRIVE_RESUME_LINK">
+    <img src="https://drive.google.com/file/d/1khMVU30htGbx1dsKqOrIHoxYkTmk3_Mu/view" />
+  </a>
 </p>
 
 ---
